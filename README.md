@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/A4ityaMishra"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d4aff&height=140&section=header&text=Hi%2C%20I'm%20Adi&fontColor=ffffff&fontSize=44&fontAlignY=38" width="100%" alt="Hi, I'm Adi"/></a>
-**CS @ UMass Amherst · Class of 2028 · building AI agents, and poking at how they break**
+<b>CS @ UMass Amherst · Class of 2028 · building AI agents, and poking at how they break</b>
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a4ityamishra)
 [![Email](https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:a4ityamishra@proton.me)
