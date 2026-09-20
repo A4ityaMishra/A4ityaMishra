@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d4aff&height=140&section=header&text=Hi%2C%20I'm%20Adi&fontColor=ffffff&fontSize=44&fontAlignY=38" width="100%" alt="Hi, I'm Adi"/>
+<a href="https://github.com/A4ityaMishra"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d4aff&height=140&section=header&text=Hi%2C%20I'm%20Adi&fontColor=ffffff&fontSize=44&fontAlignY=38" width="100%" alt="Hi, I'm Adi"/></a>
 **CS @ UMass Amherst · Class of 2028 · building AI agents, and poking at how they break**
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/a4ityamishra)
@@ -55,5 +55,5 @@ Most AI agent demos work once. I like the harder part: making them work every ti
 [![Research Poster](https://img.shields.io/badge/Research_Poster-Open_PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/A4ityaMishra/URV/blob/main/URV%20Poster%2036x24.pdf)
 <br>Verification Awareness and LLM Deception: does monitoring change how agents report?
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d4aff,100:0f172a&height=80&section=footer" width="100%" alt=""/>
+<a href="https://github.com/A4ityaMishra"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d4aff,100:0f172a&height=80&section=footer" width="100%" alt=""/></a>
 </div>
