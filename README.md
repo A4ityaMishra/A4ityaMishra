@@ -8,13 +8,12 @@
 *Looking for a Summer 2027 SWE internship.*
  
 </div>
----
  
 ## 🧠 What I care about
  
 Most AI agent demos work once. I like the harder part: making them work every time, for the right person, and knowing when they're not telling you the truth.
  
-**Over summer 2026, at IDC Technologies (Dubai)**, I worked on agentic AI in production. On a multi-agent licensing app, the problem was bad agent output reaching customers, so I added guardrails before anything got sent and made the pipeline recover its state instead of starting over. I also fixed a spot where one user's data could be exposed to another. I built InterviewOS, a voice interviewer that has to feel like a conversation, which means dealing with latency, interruptions, and knowing when someone has finished talking. And I owned the retrieval layer for a compliance pipeline that reads CAD drawings, where the hard part is finding the right rule to check against.
+**Over summer 2026, at IDC Technologies**, I worked on agentic AI in production. On a multi-agent licensing app. I built InterviewOS, a voice interviewer that has to feel like a conversation, which means dealing with latency, interruptions, and knowing when someone has finished talking. And I owned the retrieval layer for a compliance pipeline that reads CAD drawings, where the hard part is finding the right rule to check against.
  
 **At UMass, I did AI security research**, mentored by Mohammadreza Teymoorian Fard. The question: does an LLM agent report things differently when it thinks someone's checking? We ran the experiments across several frontier models and the answer was yes, a measurable amount. Presented it at the CICS poster session with Arnav Sharma and Justin Yu.
  
@@ -50,8 +49,8 @@ Most AI agent demos work once. I like the harder part: making them work every ti
  
 ## 📌 Check out
  
-- **InterviewOS**: the voice interviewer. [add repo/demo link]
-- **Verification Awareness and LLM Deception**: the research poster. [add PDF link]
+- **InterviewOS**: the voice interviewer. [https://github.com/A4ityaMishra/InterviewOS]
+- **Verification Awareness and LLM Deception**: the research poster. [https://github.com/A4ityaMishra/URV/blob/main/URV%20Poster%2036x24.pdf]
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d4aff,100:0f172a&height=80&section=footer" width="100%" alt=""/>
 </div>
