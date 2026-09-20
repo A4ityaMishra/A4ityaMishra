@@ -1,6 +1,3 @@
-
-
-Readme · MD
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d4aff&height=140&section=header&text=Hi%2C%20I'm%20Adi&fontColor=ffffff&fontSize=44&fontAlignY=38" width="100%" alt="Hi, I'm Adi"/>
 **CS @ UMass Amherst · Class of 2028 · building AI agents, and poking at how they break**
